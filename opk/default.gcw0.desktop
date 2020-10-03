@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=SDL2 Test
+Comment=SDL2 Test
+Exec=testsdl2
+Terminal=false
+Type=Application
+StartupNotify=true
+Icon=icon
+Categories=applications;

@@ -1,0 +1,9 @@
+Precondition
+
+Update mips.mk to point to your toolchain.
+
+Build:
+
+make ARCH=mips
+
+Copy testsdl2.opk to /media/data/apps
